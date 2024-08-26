@@ -1,0 +1,27 @@
+label.ant-radio-button-wrapper.ant-radio-button-wrapper-in-form-item {
+  margin-right: 10px !important;
+  height: 50px;
+  padding: 10px 30px;
+  border: 2px solid rgb(237, 240, 242);
+  border-radius: 5px;
+}
+
+.ant-radio-button-wrapper:not(:first-child):before {
+  display: none;
+}
+
+.select-slots {
+  width: 160px !important;
+}
+
+.select-land {
+  width: 90px !important;
+}
+
+.wrap-order::-webkit-scrollbar {
+  display: none;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}

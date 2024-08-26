@@ -1,0 +1,30 @@
+.avatar-uploader {
+  text-align: center;
+}
+.btn-hover {
+  background-color: blue;
+}
+.session {
+  display: grid;
+  grid-template-columns: 2fr 4fr 2fr;
+  grid-gap: 30px;
+}
+.control_btn {
+  display: flex;
+  justify-content: space-between;
+}
+.control_submit {
+  display: flex;
+  justify-content: space-between;
+}
+.control_public {
+  display: flex;
+  justify-content: space-between;
+}
+.control_img {
+  text-align: center;
+}
+
+img{
+  border-radius: 50px;
+}
